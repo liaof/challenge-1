@@ -4,3 +4,4 @@ Additionally I have added replaced existant div elements with appropriate
 semantic elements, and made sure all styling and images are located in the 
 css and html respectively.
 
+![hello](screenshot/elements.jpg)
